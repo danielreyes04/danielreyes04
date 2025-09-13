@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Daniel+Reyes"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Delius+&weight=600&pause=1000&color=F7F7F7&width=435&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Daniel+Reyes"/>
 </h1>
 <br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Computer+science+and+AI+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Delius+&weight=600&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%92%BB+Computer+science+and+AI+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
 
