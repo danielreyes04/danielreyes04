@@ -56,7 +56,6 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-    <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" />
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
     <br/><br/>
 
@@ -67,8 +66,7 @@
 <div align="center">
     <h2 style="font-size: 48px; font-weight: bold; color: #4CAF50;"> Learning & Interests</h2>
     <ul style="font-size: 30px; list-style-type: none; padding-left: 0; text-align: left; width: 100%; display: inline-block;">
-        <li>🎓 Currently in my 7th semester of Computer Science</li>
-        <li>🐍 Exploring Backend Development with Python</li>
+        <li>🎓 Currently in my 8th semester of Computer Science</li>
         <li>🐧 Learning Linux Servers and Administration</li>
         <li>🌐 Diving into Git & GitHub</li>
         <li>🔐 Passionate about Cybersecurity</li>
