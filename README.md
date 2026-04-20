@@ -51,7 +51,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" />
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" />
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
